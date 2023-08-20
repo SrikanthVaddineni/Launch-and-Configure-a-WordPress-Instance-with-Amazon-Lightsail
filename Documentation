@@ -1,0 +1,5 @@
+Launch and configure a WordPress instance in Amazon Light sail
+Creating A Lightsail Instance With WordPress Pre-Installed 
+To access Lightsail, we head over to lightsail.aws.amazon.com (we need to be logged in to AWS).
+
+Initially, our dashboard will be empty:
